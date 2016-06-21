@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "*",
+    "http-proxy": "*",
+    "url": "*"
+  }
+}
